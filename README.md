@@ -2,7 +2,7 @@
 
 A workload prediction library for Python. 
 PyScale can be used to estimate future loads 
-(in terms of traffic/CPU load/ memory usage) of your 
+(in terms of traffic/CPU load/memory usage) of your 
 web application/service to help you scale up/out 
 proactively. 
 
