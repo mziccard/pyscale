@@ -62,8 +62,8 @@ plotter.plot("plot.png", 0.001)
 
 ## Example
 
-After cloning the 
-repository you can move to the root of the project and run the example with:
+After cloning the repository you can move to the root of the 
+project and run the example with:
 
 ```bash
 python examples/example1.py
